@@ -12,6 +12,7 @@ function Q1() {
     console.log(arr2);
 };
 
+// Merge Sort
 function Q2() {
     let a = [1, 5, 94, 56, 855];
     let n = a.length - 1;
